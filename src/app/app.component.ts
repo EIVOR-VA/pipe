@@ -11,5 +11,5 @@ import { NumberPipe } from './+pipes/number.pipe';
 })
 export class AppComponent {
   title = 'app1';
-  menu=['Ho me','Abour','product',0];
+  // menu=['Ho me','Abour','product',0];
 }
